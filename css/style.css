@@ -87,6 +87,32 @@ section {
     padding-top: 30px;
 
 }
+.CurrentTarget {
+    padding-top: 100px;
+    text-align: center;
+}
+.coding_section {
+    display: flex;
+    justify-content: center;
+    grid-gap: 25px;
+}
+
+.inside_coding {
+    padding: 50px;
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 20px;
+}
+
+.inside_coding_2 {
+    padding: 50px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 20px;
+}
+.inside_coding_3 {
+    padding: 50px;
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 20px;
+}
 
 
 
