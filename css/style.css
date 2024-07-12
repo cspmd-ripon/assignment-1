@@ -1,3 +1,6 @@
+body {
+    font-family: sans-serif;
+}
 .nav {
     display: flex;
     justify-content: space-between;
@@ -6,14 +9,32 @@
 }
 .header {
     background-image: url("./assets/Hero-bg.png");
-    height: 97vh;
-    width: 197vh;
+    height: 90vh;
     text-align: center;
-    padding-top: 0%;
-    padding-bottom: 3%;
+    padding: 150px 0px;
+
 }
+.button-1 {
+    height: fit-content;
+    padding: 9px;
+    border-radius: 9px;
+    color: black;
+    background: white;
+    border: 2 px solid rgb(185, 185, 185);
 
+}
+.button_2 {
+    padding: 20px 43px;
+    font-size: 27px;
+    border-radius: 15px;
+    background: black;
+    color: white;
+}
+.contact{
+    color: white;
+    text-decoration: none;
 
+}
 
 
 
