@@ -4,3 +4,11 @@
     align-items: center;
     padding: 30px 45px;
 }
+.header {
+    background-image: url("./assets/Hero-bg.png");
+    height: 97vh;
+    width: 197vh;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 3%;
+}
