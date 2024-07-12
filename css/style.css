@@ -58,7 +58,27 @@ h2 {
 h3 {
     font-size: 30px;
 }
+section {
+    padding: 10px 150px;
+}
+.box {
 
+    background-color: rgba(13, 19, 33, 0.02);
+    padding-bottom: 34px;
+}
+.Development {
+    text-align: center;
+    padding: 50px 10px;
+    margin-top: 100px;
+}
+.section_1 {
+    display: flex;
+    padding: 18px 56px;
+    justify-content: space-around;
+    background-color: white;
+    margin: 20px 89px;
+    border-radius: 9px;
+}
 
 
 
