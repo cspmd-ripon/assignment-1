@@ -35,6 +35,30 @@ body {
     text-decoration: none;
 
 }
+.header h1 {
+    font-size: 400%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+p {
+
+    font-size: 20px;
+    color: rgb(92, 92, 97);
+}
+h1 {
+    font-size: 50px;
+   
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+}
+h3 {
+    font-size: 30px;
+}
+
 
 
 
